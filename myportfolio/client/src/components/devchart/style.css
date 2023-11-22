@@ -1,0 +1,47 @@
+@media screen and (max-width: 786px) {
+
+    .dev-chart {
+        max-width: 310px;
+        max-height: 310px;
+    }
+    
+    .dev-chart canvas {
+        width: 350px;
+        height: 370px;
+        padding: 0;
+    }
+    
+}
+
+
+@media screen and (min-width: 786px) and (max-width: 986px) {
+    .dev-chart {
+        min-width: 510px;
+        min-height: 510px;
+    }
+
+    .dev-chart canvas {
+        width: 510px;
+        height: 510px;
+        padding: 0;
+    }
+}
+
+@media screen and (min-width: 986px) {
+    .dev-chart {
+        width: 100%;
+        min-width: 350px;
+        min-height: 350px;
+        max-width: 350px;
+        max-height: 350px;
+        padding: 1.5rem 0rem;
+    }
+
+    .dev-chart canvas {
+        min-width: 100%;
+        min-height: 300px;
+        max-width: 100%;
+        max-height: 300px;
+    }
+    
+}

@@ -1,0 +1,359 @@
+.experience {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+@media screen and (max-width: 786px) {     
+    .exp {
+        /* margin-top: 80px; */
+        margin-top: 30px;
+        display: inline-block;
+        width: 100%;
+        padding: 0px;  
+        padding-top: 30px;
+    }
+
+    .exp-body {
+        padding:10px 20px;
+    }
+
+    .exp-com button {
+        width: 50px;
+        height: 50px;
+        border: 1px solid white;
+        border-radius: 100%;
+        font-size: 25px;
+    }
+
+    .exp-com {
+        width: 100%;
+        display: flex;
+        background-color: rgb(218, 211, 211);
+        border-top-left-radius: 25px;
+        border-bottom-left-radius: 3px;
+    }
+
+    .exp-com div {
+        width: 80%;
+        display: block;
+    }
+    .exp-com div .role {
+        padding: 15px;
+        width: 80%;
+        font-weight: bold;
+    }
+
+    .exp-com div .company {
+        padding: 5px;
+        width: 95%;
+    }
+
+    .exp-com:hover {
+        background-color: #2fa3b7 ;
+        color: white;
+        border-top-left-radius: 30px;
+    }
+
+    .desc {
+        padding: 5px;
+        background-color: rgb(236, 231, 231);
+        color:black;
+        font-size: 13px;
+    }
+
+    .desc .from-to {
+        width: 100%;
+    }
+
+    .desc .respon-desc{
+        width: 100%;
+    }
+
+    .date-from {
+        padding: 0px 5px;
+        width: 100%;
+    }
+
+    .date-from .from {
+        padding: 5px 5px;
+        float: left;
+        width: 9%;
+    }
+
+
+    .date-from .date {
+        float: left;
+        padding: 5px 5px;
+        width: 33%;
+    }
+    .date-to {
+        width: 100%;
+    }
+
+
+    .date-to .to {
+        padding: 5px 5px;
+        float: left;
+        width: 7%;
+    }
+
+
+    .date-to .date {
+        float: left;
+        padding: 5px 5px;
+        width: 33%;
+    }
+
+    .respon {
+        padding: 10px;
+        font-weight: bold;
+    }
+    .desc ul {
+        list-style-type: none;
+        padding-left: 10px;
+        margin-top: 0px;
+        margin-bottom: 5px;
+        font-size: 13px;
+    }
+}
+
+
+.alert-enter {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.alert-enter-active {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 1500ms, transform 1500ms;
+}
+
+.alert-exit {
+    opacity: 1;
+}
+
+.alert-exit-active {
+    opacity: 0;
+    transform: scale(0.9);
+    transition: opacity 1500ms, transform 1500ms;
+}
+
+.PhoneInputInput:focus{
+    outline: none;
+}
+
+
+@media screen and (min-width: 786px) {
+    .exp-com div {
+        display: block;
+    }
+    .exp-com div .role {
+        width: 100%;
+    }
+
+    .exp {
+        padding-top: 20px;
+        display: inline-block;
+        width: 100%;       
+    }
+    .exp-content {  
+        padding: 2rem 5rem;  
+    }
+
+    /* .exp-body {
+        padding:10px 35px;
+    } */
+
+    .exp-com:hover{
+        background-color: #2fa3b7 ;
+        color: white;
+    }
+
+    .exp-com {
+        width: 100%;
+        display: flex;
+        background-color: rgb(218, 211, 211);
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }
+
+    .exp-com button {
+        width: 60px;
+        height: 60px;
+        border: 1px solid white;
+        border-radius: 100%;
+        font-size: 30px;
+    }
+
+    .exp-com div {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 18px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .exp-com div .role {
+        padding:10px;
+        width: 20%;
+    }
+    .exp-com div .company {
+        padding:10px;
+        width: 100%;
+    }
+
+    .desc {
+        padding: 10px 75px;
+        background-color: rgb(207, 203, 203);
+        border-radius: 5px;
+    }
+
+    .desc div {
+        display: flex;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .date-from {
+        width: 50%;
+    }
+
+    .date-from div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .date-to {
+        width: 50%;
+    }
+
+    .date-to div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .respon {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    ul {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        list-style-type: none;
+        margin: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+@media screen and (min-width:  996px) {
+    .exp-com div {
+        display: block;
+    }
+    .exp-com div .role {
+        width: 100%;
+    }
+
+    .exp {
+        margin-top: -35px;
+        display: inline-block;
+        width: 100%;
+    }
+
+    .exp-content {
+        padding: 2rem 5rem; 
+    }
+
+    .exp-body {
+        padding:10px 35px;
+    }
+
+    .exp-com:hover{
+        background-color: #2fa3b7 ;
+        color: white;
+    }
+
+    .exp-com {
+        width: 100%;
+        display: flex;
+        background-color: rgb(218, 211, 211);
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }
+
+    .exp-com button {
+        width: 60px;
+        height: 60px;
+        border: 1px solid white;
+        border-radius: 100%;
+        font-size: 30px;
+    }
+
+    .exp-com div {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 18px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .exp-com div .role {
+        padding:10px;
+        width: 20%;
+    }
+    .exp-com div .company {
+        padding:10px;
+        width: 100%;
+    }
+
+
+    .desc {
+        padding: 10px 75px;
+        background-color: rgb(229, 225, 225);
+        border-radius: 5px;
+    }
+
+    .desc div {
+        display: flex;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .date-from {
+        width: 50%;
+    }
+
+    .date-from div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .date-to {
+        width: 50%;
+    }
+
+    .date-to div {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .respon {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    ul {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        list-style-type: none;
+        margin: 0;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}

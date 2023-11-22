@@ -1,0 +1,224 @@
+.contact {
+    margin: 2rem 5rem;
+    background-image: linear-gradient(to right, rgb(70, 28, 166),#98f2fb);
+    opacity :95;
+    border-radius: 5px;
+} 
+
+.contact-body {
+    padding: 5rem 5rem;
+    color: white;
+}
+
+.content {
+    display: flex;
+    padding: 10px 30px;
+    text-align: left;
+    justify-content: center;
+}
+
+.label {
+    display: block;
+    width: 25%;
+    padding: 8px 30px;
+}
+
+.label span::after {
+        content: "*";
+        font-size: 18px;
+        color: red;
+        width: 100%;
+        text-align: left; 
+        justify-content: center;
+        padding-left: 3px;
+}
+
+.input-button {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 75%;
+    justify-content: center;
+}
+
+.input-button input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #dbdbdf;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 7px;
+}
+
+.input-button input:focus {
+    border: 2px solid #213ab6;
+}
+
+.submit {
+    display: flex;
+    padding: 10px 30px;
+    text-align: left;
+    justify-content: center;
+}
+
+.input-button textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #dbdbdf;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 7px;
+}
+
+.input-button textarea:focus {
+    border: 2px solid #2642d1;
+}
+
+.submit button {
+    background-color: #4810cc;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+
+.popup {    
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .popup-inner {
+    position: relative;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    width:  100%;
+    max-width: 640px;
+    color: white;
+    background-color: rgb(8, 161, 172);
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+  }
+
+.popup-inner .close-btn {
+    position: absolute;
+    top:16px;
+    right: 16px;
+    color: rgb(64, 49, 230);
+}
+
+
+@media screen and (max-width: 786px){
+    .contact {
+        margin: 0;
+        padding-top: 5.5rem;
+        background-image: none;
+        opacity :95;
+        border-radius: 5px;
+    } 
+    .contact-body {
+        padding: 0;
+        color: white;
+    }
+   .content {
+        display: block;
+        text-align: left;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        padding: 0;
+        width: 100%;
+    }
+
+    .label {
+        padding: 15px 18px 0px 18px;
+        width: 90%;
+        font-size: 14px;
+
+    }
+
+    .label span {
+        padding: 0;
+    }
+
+    .input-button {
+        padding: 5px 18px;
+        width: 90%;
+    }
+
+    .popup {    
+        position: fixed;
+        top:0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .popup-inner {
+        position: relative;
+        padding: 10px;
+        font-size: 18px;
+        font-weight: bold;
+        width:  100%;
+        max-width: 350px;
+        color: white;
+        background-color: rgb(8, 161, 172);
+        border: 1px solid gray;
+        border-radius: 2px;
+        text-align: center;
+        justify-content: center;
+      }
+    
+    .popup-inner .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        color: rgb(64, 49, 230);
+    }
+
+}
+
+  
+
+@media screen and (min-width: 786px) and (max-width: 1200px) {
+    .contact {
+        margin: 0 0;
+        background-image: linear-gradient(to right, rgb(70, 28, 166),#98f2fb);
+        opacity :95;
+        border-radius: 5px;
+        padding-top: 7rem;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .contact-body {
+        color: white;
+    }
+    
+    .content {
+        display: flex;
+        padding: 10px 30px;
+        text-align: left;
+        justify-content: center;
+    }   
+}
+
