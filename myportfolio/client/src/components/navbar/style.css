@@ -1,0 +1,304 @@
+@media screen and (max-width: 986px) {
+
+    .nav-desktop{
+        display: none;
+    }
+
+    .navbar  {
+        position: relative;
+    }
+
+    .nav {
+      position: absolute;
+      opacity: 105;
+      width: 100%;
+      margin: auto;
+      justify-content: center;
+      float: left;
+      background-color: #2fa3b7;
+    }
+    
+    .nav ul {
+        justify-items: center;
+        list-style-type: none;
+        text-align: center;
+        padding:0;
+        margin: 0px;
+        padding-bottom: 10px;
+    }
+    
+    .nav ul a {
+        text-decoration: none;
+        color:white;
+    }
+    
+    .nav ul li {
+        padding: 10px;
+        font-size: 18px;
+    }
+
+    .nav ul li:hover {
+        color:blue;
+        background-color: rgb(214, 211, 211);
+    }
+    
+    .nav-header {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .nav-header a {
+        text-decoration: none;
+    }
+    
+    .logo {
+        width: 20%;
+        /* float: left; */
+        margin:auto;
+        text-align: center;
+        font-weight: bold;
+        align-items: center;
+    }
+    
+    .logo-img {
+        width: 100%;
+        align-items: center;
+    }
+    
+    .logo img {
+        padding:10px;
+        border-radius: 100%;
+        width: 50px;
+        height: 50px; 
+    }
+    
+    .name {
+        width: 50%;
+        float: left;
+        margin:auto;
+        text-align: center;
+        font-weight: bold;
+        align-items: center;
+    }
+
+    .name strong {
+        color:white;
+        font-size: 22px;
+    }
+    
+    .close {
+        float: left;
+        width: 20%;
+        color:white;
+        
+    }
+    
+    .close-item {
+        width: 100%;
+        align-items: center;
+    }
+}
+
+
+@media screen and (min-width: 986px) {
+
+.nav {
+    display: none;
+}
+  .navbar{
+    width: 100%;
+    margin: auto;
+    height: 65px;
+}
+.nav-desktop {
+    width: 100%;
+    margin: auto;
+}
+
+.nav-desktop ul {
+    list-style-type: none;
+    padding-left: 0;
+    width: 100%;
+    height: 60px;
+    box-shadow: 0px 3px 0px #37a1aa;
+    /* padding: 5px; */
+}
+
+.nav-desktop ul a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.logo-name {
+    width: 45%;
+    font-size: 28px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5%;
+    float: left;
+}
+
+.logo-name span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left:15px;
+    margin-right: 15px;
+}
+
+.logo-name img {
+    width: 45%;
+    padding: 5px;
+    border-radius: 100%;
+    width: 45px;
+    height: 45px; 
+    align-items: center;
+    
+}
+
+.logo-name strong {
+    font-size: 20px;
+    width: 50%;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+}
+
+.logo-name img:hover {
+    opacity: 1;
+    scale:1.1;
+    color:rgb(201, 201, 209);
+}
+
+.logo-name strong:hover {
+    opacity: 1;
+    scale:1.1;
+    color:rgb(201, 201, 209);
+}
+.menu {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    float: left;
+    border-radius: 1%;
+}
+
+.menu li {
+    padding: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.menu li:hover {
+    opacity: 0.9;
+    color:black;
+    background-color: rgb(212, 208, 208);
+    border-radius: 3px;
+}
+
+}
+
+
+@media screen and (min-width: 1200px) {
+
+    .nav {
+        display: none;
+    }
+      .navbar{
+        width: 100%;
+        margin: auto;
+        height: 70px;
+    }
+    .nav-desktop {
+        width: 100%;
+        margin: auto;
+    }
+    
+    .nav-desktop ul {
+        list-style-type: none;
+        padding-left: 0;
+        width: 100%;
+        height: 65px;
+    }    
+
+    .nav-desktop ul a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+    }
+    
+    .logo-name {
+        width: 55%;
+        font-size: 28px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-radius: 5%;
+        float: left;
+    }
+    
+    .logo-name span {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    
+    .logo-name img {
+        width: 45%;
+        padding: 10px;
+        border-radius: 100%;
+        width: 45px;
+        height: 45px; 
+        align-items: center;
+        
+    }
+    
+    .logo-name strong {
+        font-size: 20px;
+        width: 50%;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+    }
+    
+    .logo-name img:hover {
+        opacity: 1;
+        scale:1.1;
+        color:rgb(201, 201, 209);
+    }
+    
+    .logo-name strong:hover {
+        opacity: 1;
+        scale:1.1;
+        color:rgb(201, 201, 209);
+    }
+    .menu {
+        font-size: 15px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:white;
+        float: left;
+    }
+    
+    .menu li {
+        padding: 17px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .menu li:hover {
+        opacity: 0.9;
+        color:black;
+        background-color: rgb(212, 208, 208);
+        border-radius: 3px;
+    }
+    
+    }
+    

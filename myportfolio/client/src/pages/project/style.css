@@ -1,0 +1,146 @@
+.project {
+    /* padding: 10px 30px; */
+    padding: 2rem 5rem;
+}
+
+/* .description {
+    margin-top: -40px;
+} */
+
+.project-desc {
+    display: flex;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image {
+    padding-top:30px;
+    padding-bottom: 30px;
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.image img {
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+/* .image:hover {
+    scale: 1.1;
+} */
+
+.text {
+    width: 60%;
+    padding:10px 15px
+}
+
+.text h1 {
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text ul {
+    color: white;
+    list-style-type: disc;
+    line-height: 2.5;
+}
+
+.text ul li {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+@media screen and (max-width: 786px){
+
+    .project {
+        padding: 1.5rem;
+    }
+
+    .description {
+        margin-top: 60px;
+    } 
+
+    .project-desc {
+        display: block;
+    } 
+
+    .image {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        justify-items: center;
+    }
+
+    .image img {
+        width: 340px;
+        height: 310px;
+        background-color: white;
+        border-radius: 5px;
+
+    }
+
+    .text {
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .text ul {
+        color: white;
+        list-style-type: disc;
+        line-height: 1.8;
+    }
+}
+
+@media screen and (min-width: 786px) and (max-width: 996px){
+    .description {
+        margin-top: 55px;
+    }
+
+    .project-desc {
+        display: block;
+
+    } 
+
+    .image {
+        width: 100%;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        display: flex;
+        justify-items: center;
+    }
+
+    .image img {
+        width: 500px;
+        height: 500px;
+        background-color: white;
+        border-radius: 5px;
+
+    }
+
+    .text {
+        width: 100%;
+        padding:10px 15px;
+    }
+
+    .text h1 {
+        font-size: 20px;
+    }
+    
+    .text ul {
+        font-size: 16px;
+        color: white;
+        list-style-type: disc;
+        line-height: 2;
+    }
+    
+    .text ul li {
+        padding-left: .8rem;
+        padding-right: .8rem;
+    }
+}

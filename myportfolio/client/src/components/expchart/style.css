@@ -1,0 +1,28 @@
+@media screen and (max-width: 786px) {
+    .chart-container canvas {
+        height: 250px !important;
+        width: 380px !important;
+        padding: 0;
+    }
+    
+}
+
+
+@media screen and (min-width: 786px) and (max-width: 986px) {
+    .chart-container canvas {
+        width: 510px;
+        height: 510px;
+        padding: 0;
+    }
+
+}
+
+@media screen and (min-width: 986px) {
+    .chart-container canvas {
+        min-width: 90%;
+        min-height: 280px;
+        max-width: 90%;
+        max-height: 280px;
+    }
+    
+}
