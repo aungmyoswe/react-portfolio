@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d165c134.css",
+    "main.js": "/static/js/main.f96905ff.js",
+    "static/js/787.78d10c8f.chunk.js": "/static/js/787.78d10c8f.chunk.js",
+    "static/media/PMS.PNG": "/static/media/PMS.d63d4d763c518f5ddca1.PNG",
+    "static/media/Aung Myo Swe CV.pdf": "/static/media/Aung Myo Swe CV.4119596ad0d4acf303f1.pdf",
+    "static/media/INVENTORY.png": "/static/media/INVENTORY.5df3fe80f3e9ce3b09e9.png",
+    "static/media/HRMS.png": "/static/media/HRMS.97a77c13ef8eea62aea3.png",
+    "static/media/SALE.png": "/static/media/SALE.94520ea4d2330a33b037.png",
+    "static/media/ACCOUNT.png": "/static/media/ACCOUNT.0c15670df7e556663a63.png",
+    "static/media/ams.jpg": "/static/media/ams.4b32545ebc870e1712c1.jpg",
+    "static/media/POS.png": "/static/media/POS.8c6198fdd3a1e985db44.png",
+    "static/media/HOTEL.PNG": "/static/media/HOTEL.3dbf62ad699dab891382.PNG",
+    "static/media/PURCHASE.png": "/static/media/PURCHASE.4c46060140124a844734.png",
+    "static/media/NMS.png": "/static/media/NMS.8a1b2f02451f269298a6.png",
+    "index.html": "/index.html",
+    "main.d165c134.css.map": "/static/css/main.d165c134.css.map",
+    "main.f96905ff.js.map": "/static/js/main.f96905ff.js.map",
+    "787.78d10c8f.chunk.js.map": "/static/js/787.78d10c8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d165c134.css",
+    "static/js/main.f96905ff.js"
+  ]
+}
