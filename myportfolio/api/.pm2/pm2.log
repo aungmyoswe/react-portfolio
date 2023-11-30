@@ -1,0 +1,557 @@
+2023-11-22T23:00:40: PM2 log: ===============================================================================
+2023-11-22T23:00:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:00:40: PM2 log: Time                 : Wed Nov 22 2023 23:00:40 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:00:40: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:00:40: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:00:40: PM2 log: Current arch         : x64
+2023-11-22T23:00:40: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:00:40: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:00:40: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:00:40: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:00:40: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:00:40: PM2 log: Worker Interval      : 30000
+2023-11-22T23:00:40: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:00:40: PM2 log: Concurrent actions   : 2
+2023-11-22T23:00:40: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:00:40: PM2 log: ===============================================================================
+2023-11-22T23:01:52: PM2 log: PM2 successfully stopped
+2023-11-22T23:01:53: PM2 log: ===============================================================================
+2023-11-22T23:01:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:01:53: PM2 log: Time                 : Wed Nov 22 2023 23:01:53 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:01:53: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:01:53: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:01:53: PM2 log: Current arch         : x64
+2023-11-22T23:01:53: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:01:53: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:01:53: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:01:53: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:01:53: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:01:53: PM2 log: Worker Interval      : 30000
+2023-11-22T23:01:53: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:01:53: PM2 log: Concurrent actions   : 2
+2023-11-22T23:01:53: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:01:53: PM2 log: ===============================================================================
+2023-11-22T23:04:08: PM2 log: PM2 successfully stopped
+2023-11-22T23:04:09: PM2 log: ===============================================================================
+2023-11-22T23:04:09: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:04:09: PM2 log: Time                 : Wed Nov 22 2023 23:04:09 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:04:09: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:04:09: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:04:09: PM2 log: Current arch         : x64
+2023-11-22T23:04:09: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:04:09: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:04:09: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:04:09: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:04:09: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:04:09: PM2 log: Worker Interval      : 30000
+2023-11-22T23:04:09: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:04:09: PM2 log: Concurrent actions   : 2
+2023-11-22T23:04:09: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:04:09: PM2 log: ===============================================================================
+2023-11-22T23:05:36: PM2 log: PM2 successfully stopped
+2023-11-22T23:05:37: PM2 log: ===============================================================================
+2023-11-22T23:05:37: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:05:37: PM2 log: Time                 : Wed Nov 22 2023 23:05:37 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:05:37: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:05:37: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:05:37: PM2 log: Current arch         : x64
+2023-11-22T23:05:37: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:05:37: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:05:37: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:05:37: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:05:37: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:05:37: PM2 log: Worker Interval      : 30000
+2023-11-22T23:05:37: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:05:37: PM2 log: Concurrent actions   : 2
+2023-11-22T23:05:37: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:05:37: PM2 log: ===============================================================================
+2023-11-22T23:10:16: PM2 log: PM2 successfully stopped
+2023-11-22T23:19:17: PM2 log: ===============================================================================
+2023-11-22T23:19:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:19:17: PM2 log: Time                 : Wed Nov 22 2023 23:19:17 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:19:17: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:19:17: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:19:17: PM2 log: Current arch         : x64
+2023-11-22T23:19:17: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:19:17: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:19:17: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:19:17: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:19:17: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:19:17: PM2 log: Worker Interval      : 30000
+2023-11-22T23:19:17: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:19:17: PM2 log: Concurrent actions   : 2
+2023-11-22T23:19:17: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:19:17: PM2 log: ===============================================================================
+2023-11-22T23:28:39: PM2 log: PM2 successfully stopped
+2023-11-22T23:28:40: PM2 log: ===============================================================================
+2023-11-22T23:28:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:28:40: PM2 log: Time                 : Wed Nov 22 2023 23:28:40 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:28:40: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:28:40: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:28:40: PM2 log: Current arch         : x64
+2023-11-22T23:28:40: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:28:40: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:28:40: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:28:40: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:28:40: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:28:40: PM2 log: Worker Interval      : 30000
+2023-11-22T23:28:40: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:28:40: PM2 log: Concurrent actions   : 2
+2023-11-22T23:28:40: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:28:40: PM2 log: ===============================================================================
+2023-11-22T23:29:25: PM2 log: PM2 successfully stopped
+2023-11-22T23:29:26: PM2 log: ===============================================================================
+2023-11-22T23:29:26: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:29:26: PM2 log: Time                 : Wed Nov 22 2023 23:29:26 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:29:26: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:29:26: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:29:26: PM2 log: Current arch         : x64
+2023-11-22T23:29:26: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:29:26: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:29:26: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:29:26: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:29:26: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:29:26: PM2 log: Worker Interval      : 30000
+2023-11-22T23:29:26: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:29:26: PM2 log: Concurrent actions   : 2
+2023-11-22T23:29:26: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:29:26: PM2 log: ===============================================================================
+2023-11-22T23:29:35: PM2 log: PM2 successfully stopped
+2023-11-22T23:29:35: PM2 log: ===============================================================================
+2023-11-22T23:29:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-22T23:29:35: PM2 log: Time                 : Wed Nov 22 2023 23:29:35 GMT+0000 (Coordinated Universal Time)
+2023-11-22T23:29:35: PM2 log: PM2 version          : 5.3.0
+2023-11-22T23:29:35: PM2 log: Node.js version      : 12.22.9
+2023-11-22T23:29:35: PM2 log: Current arch         : x64
+2023-11-22T23:29:35: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-22T23:29:35: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-22T23:29:35: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-22T23:29:35: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-22T23:29:35: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-22T23:29:35: PM2 log: Worker Interval      : 30000
+2023-11-22T23:29:35: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-22T23:29:35: PM2 log: Concurrent actions   : 2
+2023-11-22T23:29:35: PM2 log: SIGTERM timeout      : 1600
+2023-11-22T23:29:35: PM2 log: ===============================================================================
+2023-11-22T23:33:44: PM2 log: PM2 successfully stopped
+2023-11-28T19:12:28: PM2 log: ===============================================================================
+2023-11-28T19:12:28: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T19:12:28: PM2 log: Time                 : Tue Nov 28 2023 19:12:28 GMT+0000 (Coordinated Universal Time)
+2023-11-28T19:12:28: PM2 log: PM2 version          : 5.3.0
+2023-11-28T19:12:28: PM2 log: Node.js version      : 12.22.9
+2023-11-28T19:12:28: PM2 log: Current arch         : x64
+2023-11-28T19:12:28: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T19:12:28: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T19:12:28: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T19:12:28: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T19:12:28: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T19:12:28: PM2 log: Worker Interval      : 30000
+2023-11-28T19:12:28: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T19:12:28: PM2 log: Concurrent actions   : 2
+2023-11-28T19:12:28: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T19:12:28: PM2 log: ===============================================================================
+2023-11-28T19:16:49: PM2 log: ===============================================================================
+2023-11-28T19:16:49: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T19:16:49: PM2 log: Time                 : Tue Nov 28 2023 19:16:49 GMT+0000 (Coordinated Universal Time)
+2023-11-28T19:16:49: PM2 log: PM2 version          : 5.3.0
+2023-11-28T19:16:49: PM2 log: Node.js version      : 12.22.9
+2023-11-28T19:16:49: PM2 log: Current arch         : x64
+2023-11-28T19:16:49: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T19:16:49: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T19:16:49: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T19:16:49: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T19:16:49: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T19:16:49: PM2 log: Worker Interval      : 30000
+2023-11-28T19:16:49: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T19:16:49: PM2 log: Concurrent actions   : 2
+2023-11-28T19:16:49: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T19:16:49: PM2 log: ===============================================================================
+2023-11-28T19:40:09: PM2 log: ===============================================================================
+2023-11-28T19:40:09: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T19:40:09: PM2 log: Time                 : Tue Nov 28 2023 19:40:09 GMT+0000 (Coordinated Universal Time)
+2023-11-28T19:40:09: PM2 log: PM2 version          : 5.3.0
+2023-11-28T19:40:09: PM2 log: Node.js version      : 12.22.9
+2023-11-28T19:40:09: PM2 log: Current arch         : x64
+2023-11-28T19:40:09: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T19:40:09: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T19:40:09: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T19:40:09: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T19:40:09: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T19:40:09: PM2 log: Worker Interval      : 30000
+2023-11-28T19:40:09: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T19:40:09: PM2 log: Concurrent actions   : 2
+2023-11-28T19:40:09: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T19:40:09: PM2 log: ===============================================================================
+2023-11-28T19:40:14: PM2 log: PM2 successfully stopped
+2023-11-28T19:40:41: PM2 log: ===============================================================================
+2023-11-28T19:40:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T19:40:41: PM2 log: Time                 : Tue Nov 28 2023 19:40:41 GMT+0000 (Coordinated Universal Time)
+2023-11-28T19:40:41: PM2 log: PM2 version          : 5.3.0
+2023-11-28T19:40:41: PM2 log: Node.js version      : 12.22.9
+2023-11-28T19:40:41: PM2 log: Current arch         : x64
+2023-11-28T19:40:41: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T19:40:41: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T19:40:41: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T19:40:41: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T19:40:41: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T19:40:41: PM2 log: Worker Interval      : 30000
+2023-11-28T19:40:41: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T19:40:41: PM2 log: Concurrent actions   : 2
+2023-11-28T19:40:41: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T19:40:41: PM2 log: ===============================================================================
+2023-11-28T20:06:33: PM2 log: ===============================================================================
+2023-11-28T20:06:33: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T20:06:33: PM2 log: Time                 : Tue Nov 28 2023 20:06:33 GMT+0000 (Coordinated Universal Time)
+2023-11-28T20:06:33: PM2 log: PM2 version          : 5.3.0
+2023-11-28T20:06:33: PM2 log: Node.js version      : 12.22.9
+2023-11-28T20:06:33: PM2 log: Current arch         : x64
+2023-11-28T20:06:33: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T20:06:33: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T20:06:33: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T20:06:33: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T20:06:33: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T20:06:33: PM2 log: Worker Interval      : 30000
+2023-11-28T20:06:33: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T20:06:33: PM2 log: Concurrent actions   : 2
+2023-11-28T20:06:33: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T20:06:33: PM2 log: ===============================================================================
+2023-11-28T20:17:22: PM2 log: ===============================================================================
+2023-11-28T20:17:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T20:17:22: PM2 log: Time                 : Tue Nov 28 2023 20:17:22 GMT+0000 (Coordinated Universal Time)
+2023-11-28T20:17:22: PM2 log: PM2 version          : 5.3.0
+2023-11-28T20:17:22: PM2 log: Node.js version      : 12.22.9
+2023-11-28T20:17:22: PM2 log: Current arch         : x64
+2023-11-28T20:17:22: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T20:17:22: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T20:17:22: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T20:17:22: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T20:17:22: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T20:17:22: PM2 log: Worker Interval      : 30000
+2023-11-28T20:17:22: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T20:17:22: PM2 log: Concurrent actions   : 2
+2023-11-28T20:17:22: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T20:17:22: PM2 log: ===============================================================================
+2023-11-28T20:35:20: PM2 log: PM2 successfully stopped
+2023-11-28T20:35:47: PM2 log: ===============================================================================
+2023-11-28T20:35:47: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T20:35:47: PM2 log: Time                 : Tue Nov 28 2023 20:35:47 GMT+0000 (Coordinated Universal Time)
+2023-11-28T20:35:47: PM2 log: PM2 version          : 5.3.0
+2023-11-28T20:35:47: PM2 log: Node.js version      : 12.22.9
+2023-11-28T20:35:47: PM2 log: Current arch         : x64
+2023-11-28T20:35:47: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T20:35:47: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T20:35:47: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T20:35:47: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T20:35:47: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T20:35:47: PM2 log: Worker Interval      : 30000
+2023-11-28T20:35:47: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T20:35:47: PM2 log: Concurrent actions   : 2
+2023-11-28T20:35:47: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T20:35:47: PM2 log: ===============================================================================
+2023-11-28T20:44:48: PM2 log: ===============================================================================
+2023-11-28T20:44:48: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T20:44:48: PM2 log: Time                 : Tue Nov 28 2023 20:44:48 GMT+0000 (Coordinated Universal Time)
+2023-11-28T20:44:48: PM2 log: PM2 version          : 5.3.0
+2023-11-28T20:44:48: PM2 log: Node.js version      : 12.22.9
+2023-11-28T20:44:48: PM2 log: Current arch         : x64
+2023-11-28T20:44:48: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T20:44:48: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T20:44:48: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T20:44:48: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T20:44:48: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T20:44:48: PM2 log: Worker Interval      : 30000
+2023-11-28T20:44:48: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T20:44:48: PM2 log: Concurrent actions   : 2
+2023-11-28T20:44:48: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T20:44:48: PM2 log: ===============================================================================
+2023-11-28T21:11:04: PM2 log: ===============================================================================
+2023-11-28T21:11:04: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T21:11:04: PM2 log: Time                 : Tue Nov 28 2023 21:11:04 GMT+0000 (Coordinated Universal Time)
+2023-11-28T21:11:04: PM2 log: PM2 version          : 5.3.0
+2023-11-28T21:11:04: PM2 log: Node.js version      : 12.22.9
+2023-11-28T21:11:04: PM2 log: Current arch         : x64
+2023-11-28T21:11:04: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T21:11:04: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T21:11:04: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T21:11:04: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T21:11:04: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T21:11:04: PM2 log: Worker Interval      : 30000
+2023-11-28T21:11:04: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T21:11:05: PM2 log: Concurrent actions   : 2
+2023-11-28T21:11:05: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T21:11:05: PM2 log: ===============================================================================
+2023-11-28T21:29:29: PM2 log: ===============================================================================
+2023-11-28T21:29:29: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T21:29:29: PM2 log: Time                 : Tue Nov 28 2023 21:29:29 GMT+0000 (Coordinated Universal Time)
+2023-11-28T21:29:29: PM2 log: PM2 version          : 5.3.0
+2023-11-28T21:29:29: PM2 log: Node.js version      : 12.22.9
+2023-11-28T21:29:29: PM2 log: Current arch         : x64
+2023-11-28T21:29:29: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T21:29:29: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T21:29:29: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T21:29:29: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T21:29:29: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T21:29:29: PM2 log: Worker Interval      : 30000
+2023-11-28T21:29:29: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T21:29:29: PM2 log: Concurrent actions   : 2
+2023-11-28T21:29:29: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T21:29:29: PM2 log: ===============================================================================
+2023-11-28T23:05:15: PM2 log: ===============================================================================
+2023-11-28T23:05:15: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-28T23:05:15: PM2 log: Time                 : Tue Nov 28 2023 23:05:15 GMT+0000 (Coordinated Universal Time)
+2023-11-28T23:05:15: PM2 log: PM2 version          : 5.3.0
+2023-11-28T23:05:15: PM2 log: Node.js version      : 12.22.9
+2023-11-28T23:05:15: PM2 log: Current arch         : x64
+2023-11-28T23:05:15: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-28T23:05:15: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-28T23:05:15: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-28T23:05:15: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-28T23:05:15: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-28T23:05:15: PM2 log: Worker Interval      : 30000
+2023-11-28T23:05:15: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-28T23:05:15: PM2 log: Concurrent actions   : 2
+2023-11-28T23:05:15: PM2 log: SIGTERM timeout      : 1600
+2023-11-28T23:05:15: PM2 log: ===============================================================================
+2023-11-29T14:48:08: PM2 log: ===============================================================================
+2023-11-29T14:48:08: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T14:48:08: PM2 log: Time                 : Wed Nov 29 2023 14:48:08 GMT+0000 (Coordinated Universal Time)
+2023-11-29T14:48:08: PM2 log: PM2 version          : 5.3.0
+2023-11-29T14:48:08: PM2 log: Node.js version      : 12.22.9
+2023-11-29T14:48:08: PM2 log: Current arch         : x64
+2023-11-29T14:48:08: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T14:48:08: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T14:48:08: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T14:48:08: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T14:48:08: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T14:48:08: PM2 log: Worker Interval      : 30000
+2023-11-29T14:48:08: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T14:48:08: PM2 log: Concurrent actions   : 2
+2023-11-29T14:48:08: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T14:48:08: PM2 log: ===============================================================================
+2023-11-29T14:55:31: PM2 log: ===============================================================================
+2023-11-29T14:55:31: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T14:55:31: PM2 log: Time                 : Wed Nov 29 2023 14:55:31 GMT+0000 (Coordinated Universal Time)
+2023-11-29T14:55:31: PM2 log: PM2 version          : 5.3.0
+2023-11-29T14:55:31: PM2 log: Node.js version      : 12.22.9
+2023-11-29T14:55:31: PM2 log: Current arch         : x64
+2023-11-29T14:55:31: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T14:55:31: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T14:55:31: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T14:55:31: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T14:55:31: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T14:55:31: PM2 log: Worker Interval      : 30000
+2023-11-29T14:55:31: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T14:55:31: PM2 log: Concurrent actions   : 2
+2023-11-29T14:55:31: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T14:55:31: PM2 log: ===============================================================================
+2023-11-29T14:59:29: PM2 log: PM2 successfully stopped
+2023-11-29T14:59:56: PM2 log: ===============================================================================
+2023-11-29T14:59:56: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T14:59:56: PM2 log: Time                 : Wed Nov 29 2023 14:59:56 GMT+0000 (Coordinated Universal Time)
+2023-11-29T14:59:56: PM2 log: PM2 version          : 5.3.0
+2023-11-29T14:59:56: PM2 log: Node.js version      : 12.22.9
+2023-11-29T14:59:56: PM2 log: Current arch         : x64
+2023-11-29T14:59:56: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T14:59:56: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T14:59:56: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T14:59:56: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T14:59:56: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T14:59:56: PM2 log: Worker Interval      : 30000
+2023-11-29T14:59:56: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T14:59:56: PM2 log: Concurrent actions   : 2
+2023-11-29T14:59:56: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T14:59:56: PM2 log: ===============================================================================
+2023-11-29T15:05:15: PM2 log: ===============================================================================
+2023-11-29T15:05:15: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T15:05:15: PM2 log: Time                 : Wed Nov 29 2023 15:05:15 GMT+0000 (Coordinated Universal Time)
+2023-11-29T15:05:15: PM2 log: PM2 version          : 5.3.0
+2023-11-29T15:05:15: PM2 log: Node.js version      : 12.22.9
+2023-11-29T15:05:15: PM2 log: Current arch         : x64
+2023-11-29T15:05:15: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T15:05:15: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T15:05:15: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T15:05:15: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T15:05:15: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T15:05:15: PM2 log: Worker Interval      : 30000
+2023-11-29T15:05:15: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T15:05:15: PM2 log: Concurrent actions   : 2
+2023-11-29T15:05:15: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T15:05:15: PM2 log: ===============================================================================
+2023-11-29T15:18:21: PM2 log: ===============================================================================
+2023-11-29T15:18:21: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T15:18:21: PM2 log: Time                 : Wed Nov 29 2023 15:18:21 GMT+0000 (Coordinated Universal Time)
+2023-11-29T15:18:21: PM2 log: PM2 version          : 5.3.0
+2023-11-29T15:18:21: PM2 log: Node.js version      : 12.22.9
+2023-11-29T15:18:21: PM2 log: Current arch         : x64
+2023-11-29T15:18:21: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T15:18:21: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T15:18:21: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T15:18:21: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T15:18:21: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T15:18:21: PM2 log: Worker Interval      : 30000
+2023-11-29T15:18:21: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T15:18:21: PM2 log: Concurrent actions   : 2
+2023-11-29T15:18:21: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T15:18:21: PM2 log: ===============================================================================
+2023-11-29T16:23:38: PM2 log: PM2 successfully stopped
+2023-11-29T16:24:07: PM2 log: ===============================================================================
+2023-11-29T16:24:07: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T16:24:07: PM2 log: Time                 : Wed Nov 29 2023 16:24:07 GMT+0000 (Coordinated Universal Time)
+2023-11-29T16:24:07: PM2 log: PM2 version          : 5.3.0
+2023-11-29T16:24:07: PM2 log: Node.js version      : 12.22.9
+2023-11-29T16:24:07: PM2 log: Current arch         : x64
+2023-11-29T16:24:07: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T16:24:07: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T16:24:07: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T16:24:07: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T16:24:07: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T16:24:07: PM2 log: Worker Interval      : 30000
+2023-11-29T16:24:07: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T16:24:07: PM2 log: Concurrent actions   : 2
+2023-11-29T16:24:07: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T16:24:07: PM2 log: ===============================================================================
+2023-11-29T16:24:51: PM2 log: PM2 successfully stopped
+2023-11-29T16:25:17: PM2 log: ===============================================================================
+2023-11-29T16:25:17: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T16:25:17: PM2 log: Time                 : Wed Nov 29 2023 16:25:17 GMT+0000 (Coordinated Universal Time)
+2023-11-29T16:25:17: PM2 log: PM2 version          : 5.3.0
+2023-11-29T16:25:17: PM2 log: Node.js version      : 12.22.9
+2023-11-29T16:25:17: PM2 log: Current arch         : x64
+2023-11-29T16:25:17: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T16:25:17: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T16:25:17: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T16:25:17: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T16:25:17: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T16:25:17: PM2 log: Worker Interval      : 30000
+2023-11-29T16:25:17: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T16:25:17: PM2 log: Concurrent actions   : 2
+2023-11-29T16:25:17: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T16:25:17: PM2 log: ===============================================================================
+2023-11-29T20:04:16: PM2 log: ===============================================================================
+2023-11-29T20:04:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T20:04:16: PM2 log: Time                 : Wed Nov 29 2023 20:04:16 GMT+0000 (Coordinated Universal Time)
+2023-11-29T20:04:16: PM2 log: PM2 version          : 5.3.0
+2023-11-29T20:04:16: PM2 log: Node.js version      : 12.22.9
+2023-11-29T20:04:16: PM2 log: Current arch         : x64
+2023-11-29T20:04:16: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T20:04:16: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T20:04:16: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T20:04:16: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T20:04:16: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T20:04:16: PM2 log: Worker Interval      : 30000
+2023-11-29T20:04:16: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T20:04:16: PM2 log: Concurrent actions   : 2
+2023-11-29T20:04:16: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T20:04:16: PM2 log: ===============================================================================
+2023-11-29T21:20:12: PM2 log: ===============================================================================
+2023-11-29T21:20:12: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T21:20:12: PM2 log: Time                 : Wed Nov 29 2023 21:20:12 GMT+0000 (Coordinated Universal Time)
+2023-11-29T21:20:12: PM2 log: PM2 version          : 5.3.0
+2023-11-29T21:20:12: PM2 log: Node.js version      : 12.22.9
+2023-11-29T21:20:12: PM2 log: Current arch         : x64
+2023-11-29T21:20:12: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T21:20:12: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T21:20:12: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T21:20:12: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T21:20:12: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T21:20:12: PM2 log: Worker Interval      : 30000
+2023-11-29T21:20:12: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T21:20:12: PM2 log: Concurrent actions   : 2
+2023-11-29T21:20:12: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T21:20:12: PM2 log: ===============================================================================
+2023-11-29T21:56:09: PM2 log: ===============================================================================
+2023-11-29T21:56:09: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T21:56:09: PM2 log: Time                 : Wed Nov 29 2023 21:56:09 GMT+0000 (Coordinated Universal Time)
+2023-11-29T21:56:09: PM2 log: PM2 version          : 5.3.0
+2023-11-29T21:56:09: PM2 log: Node.js version      : 12.22.9
+2023-11-29T21:56:09: PM2 log: Current arch         : x64
+2023-11-29T21:56:09: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T21:56:09: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T21:56:09: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T21:56:09: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T21:56:09: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T21:56:09: PM2 log: Worker Interval      : 30000
+2023-11-29T21:56:09: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T21:56:09: PM2 log: Concurrent actions   : 2
+2023-11-29T21:56:09: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T21:56:09: PM2 log: ===============================================================================
+2023-11-29T22:20:43: PM2 log: ===============================================================================
+2023-11-29T22:20:43: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T22:20:43: PM2 log: Time                 : Wed Nov 29 2023 22:20:43 GMT+0000 (Coordinated Universal Time)
+2023-11-29T22:20:43: PM2 log: PM2 version          : 5.3.0
+2023-11-29T22:20:43: PM2 log: Node.js version      : 12.22.9
+2023-11-29T22:20:43: PM2 log: Current arch         : x64
+2023-11-29T22:20:43: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T22:20:43: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T22:20:43: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T22:20:43: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T22:20:43: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T22:20:43: PM2 log: Worker Interval      : 30000
+2023-11-29T22:20:43: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T22:20:43: PM2 log: Concurrent actions   : 2
+2023-11-29T22:20:43: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T22:20:43: PM2 log: ===============================================================================
+2023-11-29T22:23:46: PM2 log: ===============================================================================
+2023-11-29T22:23:46: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T22:23:46: PM2 log: Time                 : Wed Nov 29 2023 22:23:46 GMT+0000 (Coordinated Universal Time)
+2023-11-29T22:23:46: PM2 log: PM2 version          : 5.3.0
+2023-11-29T22:23:46: PM2 log: Node.js version      : 12.22.9
+2023-11-29T22:23:46: PM2 log: Current arch         : x64
+2023-11-29T22:23:46: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T22:23:46: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T22:23:46: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T22:23:46: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T22:23:46: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T22:23:46: PM2 log: Worker Interval      : 30000
+2023-11-29T22:23:46: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T22:23:46: PM2 log: Concurrent actions   : 2
+2023-11-29T22:23:46: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T22:23:46: PM2 log: ===============================================================================
+2023-11-29T22:40:18: PM2 log: ===============================================================================
+2023-11-29T22:40:18: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T22:40:18: PM2 log: Time                 : Wed Nov 29 2023 22:40:18 GMT+0000 (Coordinated Universal Time)
+2023-11-29T22:40:18: PM2 log: PM2 version          : 5.3.0
+2023-11-29T22:40:18: PM2 log: Node.js version      : 12.22.9
+2023-11-29T22:40:18: PM2 log: Current arch         : x64
+2023-11-29T22:40:18: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T22:40:18: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T22:40:18: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T22:40:18: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T22:40:18: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T22:40:18: PM2 log: Worker Interval      : 30000
+2023-11-29T22:40:18: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T22:40:18: PM2 log: Concurrent actions   : 2
+2023-11-29T22:40:18: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T22:40:18: PM2 log: ===============================================================================
+2023-11-29T23:13:11: PM2 log: ===============================================================================
+2023-11-29T23:13:11: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-29T23:13:11: PM2 log: Time                 : Wed Nov 29 2023 23:13:11 GMT+0000 (Coordinated Universal Time)
+2023-11-29T23:13:11: PM2 log: PM2 version          : 5.3.0
+2023-11-29T23:13:11: PM2 log: Node.js version      : 12.22.9
+2023-11-29T23:13:11: PM2 log: Current arch         : x64
+2023-11-29T23:13:11: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-29T23:13:11: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-29T23:13:11: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-29T23:13:11: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-29T23:13:11: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-29T23:13:11: PM2 log: Worker Interval      : 30000
+2023-11-29T23:13:11: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-29T23:13:11: PM2 log: Concurrent actions   : 2
+2023-11-29T23:13:11: PM2 log: SIGTERM timeout      : 1600
+2023-11-29T23:13:11: PM2 log: ===============================================================================
+2023-11-30T00:17:10: PM2 log: ===============================================================================
+2023-11-30T00:17:10: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-30T00:17:10: PM2 log: Time                 : Thu Nov 30 2023 00:17:10 GMT+0000 (Coordinated Universal Time)
+2023-11-30T00:17:10: PM2 log: PM2 version          : 5.3.0
+2023-11-30T00:17:10: PM2 log: Node.js version      : 12.22.9
+2023-11-30T00:17:10: PM2 log: Current arch         : x64
+2023-11-30T00:17:10: PM2 log: PM2 home             : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2
+2023-11-30T00:17:10: PM2 log: PM2 PID file         : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pm2.pid
+2023-11-30T00:17:10: PM2 log: RPC socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/rpc.sock
+2023-11-30T00:17:10: PM2 log: BUS socket file      : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/pub.sock
+2023-11-30T00:17:10: PM2 log: Application log path : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/logs
+2023-11-30T00:17:10: PM2 log: Worker Interval      : 30000
+2023-11-30T00:17:10: PM2 log: Process dump file    : /home/ubuntu/project/react-portfolio/myportfolio/api/.pm2/dump.pm2
+2023-11-30T00:17:10: PM2 log: Concurrent actions   : 2
+2023-11-30T00:17:10: PM2 log: SIGTERM timeout      : 1600
+2023-11-30T00:17:10: PM2 log: ===============================================================================

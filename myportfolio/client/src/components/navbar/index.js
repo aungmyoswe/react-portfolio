@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import { Link } from 'react-router-dom';
 import { AiOutlineClose } from "react-icons/ai"
 import { TiThMenuOutline } from "react-icons/ti";
-import ACCOUNT from '../../assets/files/Aung Myo Swe CV.pdf';
+import ACCOUNT from '../../assets/files/Aung_Myo_Swe_Software Engineer CV.pdf';
 import "./style.css";
 import ams from "../../assets/images/ams.jpg";
 // import styled from "styled-components";

@@ -24,7 +24,7 @@ const Footer = () => {
                 <h1>My Portfolio</h1>
                 <ul>
                     <li><a href="/">Designed author by Aung Myo Swe</a></li>
-                    <li><a href="/">Built with ReactJS</a></li>
+                    <li><a href="/">Built with ReactJS & Django</a></li>
                     <li><a href="/">Built at October 2023</a></li>
                 </ul>
             </div>
