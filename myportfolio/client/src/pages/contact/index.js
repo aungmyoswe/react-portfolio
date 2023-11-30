@@ -183,7 +183,7 @@ class Contact extends React.Component {
                         </div>
                         <div className="input-button">
                             <input type="text" name="Name" placeholder="Your name ...." value={this.state.name} onChange={this.handleChangeName} ></input>
-                            <span style={{ color: "red", 'font-size': "13px" }}>{this.state.errors["name"]}</span>
+                            <span style={{ color: "red", 'fontSize': "13px" }}>{this.state.errors["name"]}</span>
                         </div>
                         
                     </div>
@@ -194,7 +194,7 @@ class Contact extends React.Component {
                         </div>
                         <div className="input-button">
                             <input type="text" name="Email" placeholder="example@yourcompany.com" value={this.state.email} onChange={this.handleChangeEmail} ></input>
-                            <span style={{ color: "red", 'font-size': "13px" }}>{this.state.errors["email"]}</span>
+                            <span style={{ color: "red", 'fontSize': "13px" }}>{this.state.errors["email"]}</span>
                         </div>
                     </div>
                     <div className="content">
@@ -203,7 +203,7 @@ class Contact extends React.Component {
                         </div>
                         <div className="input-button">
                             <input  type="text" name="Subject" placeholder="Job ..." value={this.state.subject} onChange={this.handleChangeSubject} ></input>
-                            <span style={{ color: "red", 'font-size': "13px" }}>{this.state.errors["subject"]}</span>
+                            <span style={{ color: "red", 'fontSize': "13px" }}>{this.state.errors["subject"]}</span>
                         </div>
                     </div>
                     <div className="content">
@@ -212,7 +212,7 @@ class Contact extends React.Component {
                             </div>
                             <div className="input-button">
                             <textarea  type="textarea"  name="Description" placeholder="Hi Aung, ........" value={this.state.textarea} onChange={this.handleChangeTextarea} ></textarea>
-                            <span style={{ color: "red", 'font-size': "13px" }}>{this.state.errors["textarea"]}</span>
+                            <span style={{ color: "red", 'fontSize': "13px" }}>{this.state.errors["textarea"]}</span>
                         </div>
                     </div>
                     <div className="content">
@@ -221,7 +221,7 @@ class Contact extends React.Component {
                             </div>
                             <div className="input-button">
                             <input  type="text" name="Position" placeholder="Manager.." value={this.state.position} onChange={this.handleChangePosition} ></input>
-                            <span style={{ color: "red", 'font-size': "13px" }}>{this.state.errors["position"]}</span>
+                            <span style={{ color: "red", 'fontSize': "13px" }}>{this.state.errors["position"]}</span>
                         </div>
                     </div>
                     <div className="content">
@@ -238,7 +238,7 @@ class Contact extends React.Component {
                             placeholder="9798722263"
                             value={this.state.phone}
                             onChange={phone => this.setState({ phone })}/>
-                            <span style={{ color: "red", 'font-size': "13px" }}>{this.state.errors["phone"]}</span>
+                            <span style={{ color: "red", 'fontSize': "13px" }}>{this.state.errors["phone"]}</span>
                         </div>
                     </div>
                     <div className="submit">

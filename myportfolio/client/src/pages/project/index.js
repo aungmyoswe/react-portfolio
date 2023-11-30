@@ -9,12 +9,13 @@ import INVENTORY from '../../assets/images/INVENTORY.png';
 import POS from '../../assets/images/POS.png';
 import NMS from '../../assets/images/NMS.png';
 import "./style.css";
-import styled from "styled-components";
+// import styled from "styled-components";
+
+
 
 function Project(props) {
-
-  const Div = styled.div.attrs('dev-style')`
-  margin-top: -80px`
+  // const Div = styled.div.attrs('dev-style')`
+  // margin-top: -80px`
 
   const data = [
     {
@@ -68,8 +69,8 @@ function Project(props) {
   const content = 
       <div className="description">
           {
-        data?data.map((item, index) => (
-          <div className="project-desc">
+        data?data.map((item) => (
+          <div key={item.project.toString()} className="project-desc">
             <div className="image">
               <img src={item.src} alt="" className="img"></img>
             </div>
@@ -77,8 +78,8 @@ function Project(props) {
               <h1>{item.project}</h1>
               <ul>
                 {
-                item.responsibility?item.responsibility.map((task, i)=>(
-                  <li className={{i}}>{task}</li>
+                item.responsibility?item.responsibility.map((task)=>(
+                  <li  key={task.toString()}>{task}</li>
                 )):""
                 }
               </ul>
@@ -89,7 +90,8 @@ function Project(props) {
         </div> 
   return (
       <div className="project">
-        {props.type === false? content:<Div>{content} </Div>}
+        {/* {props.type === true? content:<Div>{content} </Div>} */}
+        {content}
       </div>
   );
 }

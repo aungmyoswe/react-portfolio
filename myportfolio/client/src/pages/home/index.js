@@ -9,7 +9,7 @@ function Home() {
   return (
     <div>
       <About/>
-      <Experience type={true} />
+      <Experience type={true}/>
       <Project type={true}/>      
     </div>
   );

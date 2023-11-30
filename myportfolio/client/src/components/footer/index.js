@@ -1,6 +1,6 @@
 import React from 'react'
 import { SocialIcon } from 'react-social-icons';
-import ACCOUNT from "../../assets/files/Aung Myo Swe CV.pdf";
+import ACCOUNT from "../../assets/files/Aung_Myo_Swe_Software Engineer CV.pdf";
 import { Link } from 'react-router-dom';
 import "./style.css";
 import { FcHome, FcAbout, FcBusinessContact, FcDownload } from "react-icons/fc";

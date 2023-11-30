@@ -1,4 +1,3 @@
-import './App.css';
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/header';
 import Footer from './components/footer';
@@ -7,6 +6,7 @@ import About from './pages/about';
 import Experience from './pages/exprience';
 import Project from './pages/project';
 import Contact from './pages/contact';
+import './App.css';
 
 function App() {
   return (

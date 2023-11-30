@@ -1,13 +1,13 @@
 import React, { useState, useRef } from "react";
 import { CSSTransition } from 'react-transition-group';
 import "./style.css";
-import styled from "styled-components";
-// import { findAllByText } from "@testing-library/react";
+// import styled from "styled-components";
+
 
 function Experience(props) {
 
-  const Div = styled.div.attrs('description')`
-  margin-top: -60px`
+  // const Div = styled.div.attrs('description')`
+  // margin-top: -60px`
 
   const [showButton, setShowButton] = useState(true);
   const [hover, setHover] = useState(false);
@@ -105,9 +105,9 @@ function Experience(props) {
             <div className="respon-desc">
                 <div className="respon">Responsibilities :</div>
                 <ul>
-                    <li>Developing mini task in projects</li>
-                    <li>Write user manuals and resolve issues from UAT.</li>
-                    <li>Installing Odoo for Software Development and Customer’s Window Sever</li>
+                    <li id="1">Developing mini task in projects</li>
+                    <li id="2">Write user manuals and resolve issues from UAT.</li>
+                    <li id="3">Installing Odoo for Software Development and Customer’s Window Sever</li>
                 </ul>
             </div>
         </div>
@@ -335,7 +335,8 @@ function Experience(props) {
   return (
     <div className="exp">
       <div className="exp-content">
-      {props.type ===false? content :<Div>{content}</Div>}
+      {/* {props.type === true? content :<Div>{content}</Div>} */}
+      {content}
       </div>
     </div>
   );

@@ -15,7 +15,7 @@ const ReadMore = ({ children, maxChars=800 }) => {
     return <div className="about">
               <div className="about-txt">
                   <FadeIn isVisible={1} children={10}>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is <strong style={{'font-size': '25px', 'font-family': 'sans-serif'}} >Aung Myo Swe</strong>, and I’m a <span style={{'font-size': '22px', 'font-family': 'sans-serif'}}>  full stack developer.</span>I’m a full stack developer.<ReadMore/>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is <strong style={{'fontSize': '25px', 'fontFamily': 'sans-serif'}} >Aung Myo Swe</strong>, and I’m a <span style={{'fontSize': '22px', 'fontFamily': 'sans-serif'}}>  full stack developer.</span>I’m a full stack developer.<ReadMore/>
                   </FadeIn>
               </div>
               <div className="about-img">
@@ -27,7 +27,7 @@ const ReadMore = ({ children, maxChars=800 }) => {
           <div className="about">
             <div className="about-txt">
                 <FadeIn isVisible={1} children={10}>
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is <strong style={{'font-size': '25px', 'font-family': 'sans-serif'}} >Aung Myo Swe</strong>, and I’m a<span style={{'font-size': '22px', 'font-family': 'sans-serif'}}>  full stack developer.</span> { text}
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is <strong style={{'fontSize': '25px', 'fontFamily': 'sans-serif'}} >Aung Myo Swe</strong>, and I’m a<span style={{'fontSize': '22px', 'fontFamily': 'sans-serif'}}>  full stack developer.</span> { text}
                 <span onClick={toggleReadMore} className="read-or-hide"> 
                 {isReadMore? '....Read More': 'Read Less'}
                 </span>
